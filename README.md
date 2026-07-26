@@ -55,12 +55,12 @@ Working Principle
 
 Features
 
-Real-time monitoring
-Automatic irrigation
-Manual control through Blynk
-LCD display
-Low-cost IoT solution
-Water conservation
+-Real-time monitoring
+-Automatic irrigation
+-Manual control through Blynk
+-LCD display
+-Low-cost IoT solution
+-Water conservation
 
 
 
@@ -70,9 +70,9 @@ Blynk Dashboard
 
 Virtual Pins:
 
-V0 → Temperature
-V1 → Humidity
-V12 → Pump Control
+-V0 → Temperature
+-V1 → Humidity
+-V12 → Pump Control
 
 
 
